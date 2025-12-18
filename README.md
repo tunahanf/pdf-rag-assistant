@@ -137,19 +137,9 @@ In `main.py`, you can modify:
 - `chromadb`: Vector database
 - `pypdf`: PDF processing
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ## 📝 License
 
 This project is open source and available under the MIT License.
-
-## 🙏 Acknowledgments
-
-- [Ollama](https://ollama.ai/) for providing local LLM capabilities
-- [ChromaDB](https://www.trychroma.com/) for vector storage
-- [LangChain](https://www.langchain.com/) for the RAG framework
 
 ---
 
