@@ -1,0 +1,17 @@
+[project]
+name = "rag-base"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.0",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.1",
+    "langchain-ollama>=1.0.1",
+    "langchain-text-splitters>=1.1.0",
+    "pinecone>=8.0.0",
+    "pypdf>=6.4.2",
+    "python-dotenv>=1.2.1",
+    "streamlit>=1.52.1",
+]
